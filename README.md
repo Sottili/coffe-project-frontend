@@ -16,7 +16,7 @@ https://www.figma.com/file/5qyVFSfYV8y6iXBMAXLUfL/Coffee-Delivery-%E2%80%A2-Desa
 
 Desenvolvido por:
 
-Filipe Sottili
+Filipe Sottili <br>
 Juan Pablo Barbosa
 
 
